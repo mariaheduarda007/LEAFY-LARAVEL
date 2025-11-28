@@ -1,58 +1,64 @@
 Tarefas
 
-Tables (usuario, livro, permissao, role, listas, autor, genero)
+Models e Migrations 
+usuario ANGELINE
+livro MARIA
+permissao ANGELINE
+role ANGELINE
+listas ANGELINE
+autor MARIA
+genero MARIA
+Policies, Eventos e Listeners ANGELINE 
 
-UserController
-Registro (tela)
-Login (tela)
-ListUsers (pra home do manager)
 
-ListaController (decide qual lista pelo nome da rota ou pelo icone)
-AddBook
-RemoveBook
+    ANGELINE
+    UserController
+    Registro (tela)
+    Login (tela)
 
-HomeController
-Pesquisar Livros
-Display Livros
+
+    ListUsers (pra home do manager) ANGELINE
+
+    ANGELINE
+    ListaController (decide qual lista pelo nome da rota ou pelo icone)
+    AddBook
+    RemoveBook
+
+    MARIA
+    HomeController
+    Pesquisar Livros
+    Display Livros
+
+    MARIA
+    BookControlller
+    GenreController
+    AuthorController
 
 ORIGINAIS -
-Login 
-Registro
-Home User
-Tela Resultado de Busca
-Profile
-Listas
-Detalhe do Livro
+Login ANGELINE
+Registro ANGELINE
+Home User MARIA
+Tela Resultado de Busca MARIA
+Profile ANGELINE
+Listas ANGELINE
+Detalhe do Livro MARIA
 
 ADICIONAIS - 
 
-Home Manager 
-Lista de livros igual mas com icones de editar e excluir
-Menu bar com botao de lista de usuario e de logout e criar livro
+    MARIA
+    Home Manager 
+    Lista de livros igual mas com icones de editar e excluir
+    Menu bar com botao de lista de usuario e de logout e criar livro
+    Tela de criar livro com capa de livro
+    Tela de editar livro
+    Modal de exclusão de livro
 
-Tela de listar usuários
-Tela de criar livro com capa de livro
-Tela de editar livro
-Modal de exclusão de livro
-PDF com info de user e listas (gerado por botao de salvar dados antes da exclusão)
-
-
-
+    ANGELINE
+    Tela de listar usuários
 
 
-
-
-
+PDF com info de user e listas (gerado por botao de salvar dados antes da exclusão) ANGELINE
 
 Permissões usuário (pesquisar, salvar e remover, ver profile)
 Permissoes manager (listar info de usuários e CRUD de livros)
 
-
-
-
-
-
-Maria
-
-
-Angeline
